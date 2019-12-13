@@ -1,4 +1,4 @@
-# Corporate Website - Evaluation Test
+# Corporate Website — Evaluation Test
 
 **Please, commit your changes after each step.**
 1. Clone the project.
